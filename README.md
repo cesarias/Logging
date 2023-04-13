@@ -94,7 +94,7 @@ This Lab goes along with our HoneyNet lab. Running a few KQL queries to get data
 <img src="https://i.imgur.com/dWYMrHW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
- This query pulls data from our Key Vault instance we created. This query would be good to use as an analytical rule incase anybody tried to access/view our Key Vault Instance password. 
+ This query pulls data from our Key Vault instance we attacked earlier from our Attacker VM.  
 </p>
 <br />
 
